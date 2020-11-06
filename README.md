@@ -5,7 +5,7 @@
 
 游戏玩法的版权归《跳舞的线》原作者猎豹移动公司和BOOMBIT游戏工作室所有。
 
-游戏内关卡的版权归B站UP主“JerryHan3”所有。游戏UI、代码的版权归B站UP主“狗带die_”，“Max冰焰”，“MaxBlazeRes_Fire”所有。
+游戏内关卡的版权归B站UP主“[JerryHan3](https://space.bilibili.com/430242107)”所有。游戏UI、代码的版权归B站UP主“[狗带die_](https://space.bilibili.com/41589917)”，“[Max冰焰](https://space.bilibili.com/89919399)”，“[MaxBlazeRes_Fire](https://space.bilibili.com/385652651)”所有。
 
 本游戏只授权在以下渠道下载：来自用户“136____3113”的和彩云网盘分享、来自用户13671233113@163.com的OneDrive分享、在本页面上的发布、来自用户“136____3113”的蓝奏云分享、DL RS同人交流群、JerryLine交流群。通过其他渠道下载的JerryLine**均为盗版**。
 
