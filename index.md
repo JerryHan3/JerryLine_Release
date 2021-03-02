@@ -5,4 +5,4 @@
 
 UI完全翻新，现有关卡重制……JerryLine将涅槃重生，带来全新的体验！
 
-点击[这里](https://github.com/JerryHan3/JerryLine_Release/releases)下载JerryLine。下载前您必须阅读并同意[用户协议](https://github.com/JerryHan3/JerryLine_Release/blob/master/LICENSE.md)。
+点击[这里](https://github.com/JerryHan3/JerryLine_Release/releases)下载JerryLine。下载前您必须阅读并同意[用户协议](https://jerryhan3.github.io/JerryLine_Release/term-of-use)。
