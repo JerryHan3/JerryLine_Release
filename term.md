@@ -1,3 +1,6 @@
+---
+permalink: /term-of-use
+---
 # JerryLine用户许可协议
 
 ### 一、总则
