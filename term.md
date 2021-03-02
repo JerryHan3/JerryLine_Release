@@ -1,6 +1,6 @@
 ---
 title: JerryLine用户协议
-、permalink: /term-of-use
+permalink: /term-of-use
 ---
 # JerryLine用户协议
 ### 一、总则
