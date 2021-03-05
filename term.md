@@ -2,6 +2,7 @@
 title: JerryLine使用许可
 permalink: /term-of-use
 ---
+For English version of this agreement, click [here](jerryhan3.github.io/JerryLine_Release/en/term-of-use)
 # JerryLine使用许可
 ### 一、总则
 
