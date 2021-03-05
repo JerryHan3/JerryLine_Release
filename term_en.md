@@ -2,6 +2,7 @@
 title: Term of Use for JerryLine
 permalink: /en/term-of-use
 ---
+欲浏览本条款的中文版，请点击[这里](term-of-use)
 # Term of Use for JerryLine
 ### I. General
 1. This agreement applies to the software JerryLine (hereinafter referred to as the "the software") developed by JerryHan3 (hereinafter referred to as the "developer"). This agreement is a legally binding legal agreement between you (individual or single entity) and the developer on the use of this product. This legal agreement includes, but is not limited to, all the terms of this page, as well as our separately issued policies or service rules (if any) for some functions of specific products.
