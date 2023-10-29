@@ -1,6 +1,8 @@
 # JerryLine_Release
 [English Version](https://github.com/JerryHan3/JerryLine_Release/blob/master/README_EN.md)
 
+**已停更。有缘再会。不如去看看我创立的[跳舞的线及其饭制作品Wiki](https://dlfm-wiki.top)？**
+
 本游戏是游戏《跳舞的线》的玩家自制作品，不含任何商业元素（广告、内购、收费下载等）。
 
 游戏玩法的版权归《跳舞的线》原作者猎豹移动公司和BOOMBIT游戏工作室所有。
