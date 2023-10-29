@@ -1,4 +1,7 @@
 # JerryLine_Release
+
+**Discontinued. Maybe you can keep following me at [Dancing Line & Fan-made Wiki](https://dlfm-wiki.top) :)**
+
 This game is a fanmade work of the game *Dancing Line*, without any commercial elements (advertising, in-app purchases, paid downloads, etc.).
 
 The copyright of the playing method belongs to the original author of *Dancing Line*, Cheetah Mobile and BOOMBIT Game Studio.
