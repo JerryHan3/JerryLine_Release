@@ -1,4 +1,9 @@
 # JerryLine_Release
+> [!IMPORTANT]
+> **It's all over.**  
+> Unity has been constantly testing the bottom line of developers. The runtime fee incident in 2023 had already eroded most of my trust in Unity, and the recent separation of the Greater China region users from the international Asset Store has completely exhausted my patience with it.  
+> I have submitted a complaint to my country's consumer rights protection platform regarding Unity's use of standard terms to exempt itself from liability, demanding that the company compensate for losses and cease its infringing actions. I also suggest that all developers, especially those who have purchased affected resources from the Asset Store, file complaints as well, since you have suffered actual economic losses.  
+> I have made up my mind to delete my Unity account after the complaint is resolved, parting ways with this company that lacks credibility. Therefore, all the Unity projects I have ever written will be permanently archived, and I will no longer provide any technical support for these projects.  
 
 **Discontinued. Maybe you can keep following me at [Dancing Line & Fan-made Wiki](https://dlfm-wiki.top) :)**
 
